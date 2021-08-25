@@ -9,5 +9,3 @@ Started my learning path the 22/08/2021.
 
 -Notes made via cherrytree: http://giuspen.com/cherrytreemanual/
 
--picoCTF: https://play.picoctf.org
-
