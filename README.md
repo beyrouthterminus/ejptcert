@@ -7,3 +7,5 @@ Notes and references to prepare the eJPT certification trough INE website.
 
 -Notes made via cherrytree: http://giuspen.com/cherrytreemanual/
 
+-picoCTF: https://play.picoctf.org
+
