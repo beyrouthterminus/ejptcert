@@ -7,6 +7,8 @@ eJPT deadline goal: 1 January 2021.
 
 -INE: https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student
 
+-Ethical Hacking for Beginners: https://www.udemy.com/course/practical-ethical-hacking-for-beginners/
+
 -eJPT: https://elearnsecurity.com/product/ejpt-certification/
 
 -Notes made via cherrytree: http://giuspen.com/cherrytreemanual/
