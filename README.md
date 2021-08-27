@@ -1,7 +1,7 @@
 # ejptcert
 Notes and references to prepare the eJPT certification trough INE website.
 
--Begin to look at documentation and organise my schedule while moving out from old appartement the 22/08/2021
+-Begin to look at documentation and organise my schedule while moving out from old appartement to another country the 22/08/2021
 
 -Started officialy my learning path the 15/09/2021.
 
